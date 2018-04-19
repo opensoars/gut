@@ -1,4 +1,4 @@
 #!/bin/bash
 git add --all
 git commit -m $1
-git push $2
+git push $2 $3
