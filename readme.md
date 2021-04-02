@@ -7,6 +7,12 @@ Really simple windows helper that makes Github remote commits on an initialized 
 
 Make `gut` or `gut.cmd` executable. 
 
+### Ubuntu example
+
+1. Place `gut` in `cmds` directory
+2. add `export PATH=/home/s/dev/cmds:$PATH` to `~/.bashrc`
+
+
 ## Use
 Takes two arguments from command line:
 
